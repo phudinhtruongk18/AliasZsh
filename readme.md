@@ -31,6 +31,7 @@ cp .zshrc ~/
 source ~/.zshrc
 ```
 
+## Optional
 ```bash
 # apt-get install konsole -y
 sudo apt-get install docker-compose -y
