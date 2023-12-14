@@ -8,7 +8,7 @@
 sudo apt-get update
 sudo apt-get upgrade -y
 sudo apt-get install zsh -y
-curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh | sh /dev/stdin --unattended
+curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh | sh /dev/stdin
 ```
 
 
