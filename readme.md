@@ -39,4 +39,5 @@ sudo apt-get install docker-compose -y
 sudo usermod -aG docker $USER
 sudo newgrp docker
 
+chsh -s `which zsh`
 ```
