@@ -33,8 +33,10 @@ source ~/.zshrc
 
 ## Optional
 ```bash
+sudo apt-get install nginx -y
 # apt-get install konsole -y
 sudo apt-get install docker-compose -y
 sudo usermod -aG docker $USER
 sudo newgrp docker
+
 ```
