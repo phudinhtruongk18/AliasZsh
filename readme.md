@@ -27,7 +27,7 @@ zsh
 ```
 
 ```bash
-cp .zshrc ~/
+curl https://raw.githubusercontent.com/phudinhtruongk18/AliasZsh/main/.zshrc -o ./.zshrc
 source ~/.zshrc
 ```
 
