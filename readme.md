@@ -33,6 +33,7 @@ source ~/.zshrc
 
 ## Optional
 ```bash
+sudo apt-get install python3-pip -y
 sudo apt-get install nginx -y
 # apt-get install konsole -y
 sudo apt-get install docker-compose -y
