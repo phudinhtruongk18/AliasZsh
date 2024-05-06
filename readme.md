@@ -13,7 +13,7 @@ curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/instal
 
 
 ```bash
-sudo chsh -s $(which zsh)
+chsh -s `which zsh`
 ```
 
 ```bash
@@ -39,6 +39,4 @@ sudo apt-get install nginx -y
 sudo apt-get install docker-compose -y
 sudo usermod -aG docker $USER
 sudo newgrp docker
-
-chsh -s `which zsh`
 ```
